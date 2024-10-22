@@ -7,9 +7,7 @@ This project is a fraud detection system that uses a machine learning model trai
 - [Dataset](#dataset)
 - [Model](#model)
 - [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [License](#license)
+
 
 ## Overview
 The goal of this project is to predict whether a credit card transaction is fraudulent or not. The dataset is highly imbalanced, with only a small fraction of transactions labeled as fraudulent.
