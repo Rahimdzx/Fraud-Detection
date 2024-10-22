@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fraud Detection Feature Input</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/milligram/1.4.1/milligram.min.css">
+</head>
+<body>
+    <div class="container">
+        <h2>Upload CSV for Fraud Detection</h2>
+        <form action="/predict" method="POST" enctype="multipart/form-data">
+            <label for="file">Upload CSV:</label>
+            <input type="file" id="file" name="file" accept=".csv" required>
+            <button type="submit">Submit</button>
+        </form>
+    </div>
+</body>
+</html>
