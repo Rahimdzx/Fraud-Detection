@@ -1,4 +1,5 @@
 # Fraud Detection Using Machine Learning
+![image](https://github.com/user-attachments/assets/da8b1817-2ae6-4998-9020-6027b4fb4359)
 
 This project is a fraud detection system that uses a machine learning model trained to classify transactions as fraudulent or non-fraudulent. The dataset used contains transactions made by credit cardholders, with features transformed using PCA (Principal Component Analysis).
 
